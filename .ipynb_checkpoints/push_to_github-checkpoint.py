@@ -19,7 +19,7 @@
 
 # !git commit -m "add some chapters" 
 
-# !git remote add origin https://github.com/lyhue1991/philosophy_for_programmer
+# !git remote add origin https://github.com/lyhue1991/eat_pytorch_in_20_days
 
 # !git pull origin master 
 
